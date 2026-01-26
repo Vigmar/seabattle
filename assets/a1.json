@@ -2,7 +2,7 @@
 
 {
 	"filename": "c1.png",
-	"frame": {"x":810,"y":0,"w":152,"h":152},
+	"frame": {"x":213,"y":0,"w":152,"h":152},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":152},
@@ -10,7 +10,7 @@
 },
 {
 	"filename": "c2.png",
-	"frame": {"x":962,"y":0,"w":152,"h":152},
+	"frame": {"x":365,"y":0,"w":152,"h":152},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":152},
@@ -18,7 +18,7 @@
 },
 {
 	"filename": "c3.png",
-	"frame": {"x":1114,"y":0,"w":152,"h":152},
+	"frame": {"x":517,"y":0,"w":152,"h":152},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":152},
@@ -26,7 +26,7 @@
 },
 {
 	"filename": "c4.png",
-	"frame": {"x":1266,"y":0,"w":152,"h":152},
+	"frame": {"x":669,"y":0,"w":152,"h":152},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":152},
@@ -34,7 +34,7 @@
 },
 {
 	"filename": "c5.png",
-	"frame": {"x":1418,"y":0,"w":152,"h":152},
+	"frame": {"x":821,"y":0,"w":152,"h":152},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":152},
@@ -42,7 +42,7 @@
 },
 {
 	"filename": "c6.png",
-	"frame": {"x":1570,"y":0,"w":152,"h":152},
+	"frame": {"x":973,"y":0,"w":152,"h":152},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":152},
@@ -58,7 +58,7 @@
 },
 {
 	"filename": "field.png",
-	"frame": {"x":1054,"y":152,"w":793,"h":785},
+	"frame": {"x":742,"y":152,"w":793,"h":785},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":793,"h":785},
@@ -66,7 +66,7 @@
 },
 {
 	"filename": "logo.png",
-	"frame": {"x":213,"y":0,"w":209,"h":76},
+	"frame": {"x":1125,"y":0,"w":209,"h":76},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":76},
@@ -74,7 +74,7 @@
 },
 {
 	"filename": "popup.png",
-	"frame": {"x":0,"y":937,"w":1500,"h":600},
+	"frame": {"x":0,"y":1209,"w":1500,"h":600},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":1500,"h":600},
@@ -90,15 +90,15 @@
 },
 {
 	"filename": "ru_logo.png",
-	"frame": {"x":0,"y":152,"w":700,"h":169},
+	"frame": {"x":0,"y":937,"w":1175,"h":272},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":700,"h":169},
-	"sourceSize": {"w":700,"h":169}
+	"spriteSourceSize": {"x":0,"y":0,"w":1175,"h":272},
+	"sourceSize": {"w":1175,"h":272}
 },
 {
 	"filename": "sb_title.png",
-	"frame": {"x":422,"y":0,"w":388,"h":54},
+	"frame": {"x":354,"y":152,"w":388,"h":54},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":54},
@@ -122,7 +122,7 @@
 },
 {
 	"filename": "wheel.png",
-	"frame": {"x":700,"y":152,"w":354,"h":354},
+	"frame": {"x":0,"y":152,"w":354,"h":354},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":354,"h":354},
@@ -133,8 +133,8 @@
 	"version": "1.0",
 	"image": "a1.png",
 	"format": "RGBA8888",
-	"size": {"w":1847,"h":1537},
+	"size": {"w":1535,"h":1809},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:d6811264ba20b6a3232f469f6a62f672:fc200076c79450a8a381c603df439254:4eab1f03993e9224a74ddb0af7e2e0a4$"
+	"smartupdate": "$TexturePacker:SmartUpdate:ca1fedd3d38013b2f6f48df07dc3a9dd:0afdff7c171b99be8c6c1ba69b578361:4eab1f03993e9224a74ddb0af7e2e0a4$"
 }
 }
